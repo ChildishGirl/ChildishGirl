@@ -1,6 +1,6 @@
 #####  👋 Welcome to @ChildishGirl profile
 - 👩🏻‍💻 I’m Solutions Architect working in Ukraine
-- 🛠️ I use daily: `python`, `aws`, `docker`,  `uml`, `terraform`
+- 🛠️ I use daily: `python`, `go`, `aws`, `docker`, `uml`, `terraform`
 - 🌱 Learning all about ML, data, AWS and Cloud architecture 
 - 💞️ I always enjoy chatting with like-minded professionals
 - 📫 You can find me and my work on <br/>
